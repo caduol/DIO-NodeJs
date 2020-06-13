@@ -1,0 +1,16 @@
+{
+  "name": "aula_node_postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "moment": "^2.26.0",
+    "pg": "^7.8.1",
+    "sequelize": "^4.44.4"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
